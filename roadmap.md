@@ -8,7 +8,7 @@ This document serves as a sort of ToDo list for the Alexandria project.
 
   - [ ] Implement type inheritance
   - [ ] Implement relationship attributes
-  - [ ] Implement predefined value contstraints for attributes
+  - [ ] Implement predefined value constraints for attributes
   - [ ] Implement updates to CIs after changes to CI type schema
   - [ ] Add cleanup of orphaned collections during `blank_state.sh`
   - [ ] Implement attribute indexing options
@@ -51,6 +51,8 @@ This document serves as a sort of ToDo list for the Alexandria project.
   - [ ] Improve logging
   - [ ] Add CI editor interface
   - [ ] Add CI browser interface
+  - [ ] Find someone who has half a talent for GUI/UX
+  - [ ] Allow users to retreive their API key
 
 * Documentation
 
