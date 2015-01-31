@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
   Documentation built with Jekyll
   
-baseurl: ""
+baseurl: "/alexandria-docs"
 url: "http://cavaliercoder.com"
 twitter_username: cavaliercoder
 github_username:  cavaliercoder
