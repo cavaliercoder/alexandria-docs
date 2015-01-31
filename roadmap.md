@@ -1,4 +1,8 @@
-# Development roadmap
+---
+layout: page
+title: Roadmap
+permalink: /roadmap/
+---
 
 This document serves as a sort of ToDo list for the Alexandria project.
 

@@ -1,4 +1,8 @@
-# Installation
+---
+layout: page
+title: Installation
+permalink: /install/
+---
 
 For development purposes, a pre-built CentOS 7.0 virtual machine is available
 which uses Puppet and a Vagrantfile to build, install and run a working
@@ -10,7 +14,7 @@ project on GitHub.
 If you'd like to build it yourself or use another platform please see the 
 following instructions.
 
-## RHEL/CentOS
+## Linux/OS X
 
 * Install Go as per https://golang.org/doc/install
 

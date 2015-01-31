@@ -1,0 +1,24 @@
+# Site settings
+title: Alexandria CMDB
+email: ryan@cavaliercoder.com
+description: > # this means to ignore newlines until "baseurl:"
+  Alexandria CMDB is an open source, lightweight, ITIL style configuration
+  management database, from the future!
+
+  Documentation built with Jekyll
+  
+baseurl: ""
+url: "http://cavaliercoder.com"
+twitter_username: cavaliercoder
+github_username:  cavaliercoder
+
+# Build settings
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"

@@ -1,4 +1,8 @@
-# Concepts
+---
+layout: page
+title: Concepts
+permalink: /concepts/
+---
 
 Alexandria CMDB attempts to implement a CMDB as described in the ITIL
 framework.
