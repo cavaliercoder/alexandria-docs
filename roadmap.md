@@ -60,9 +60,11 @@ This document serves as a sort of ToDo list for the Alexandria project.
 
 * Documentation
 
-  - [ ] Integration with Jekyll
+  - [x] Integration with Jekyll
   - [ ] Document attribute types and options
-  - [ ] Add theming
+  - [ ] Improve theming
+  - [ ] Add description of each component
+  - [ ] Add links to source repositories
 
 * Vagrant/Puppet
 
